@@ -12,7 +12,7 @@ def gerar_arquivo_rem():
         "nome": "Renata Nepomuceno",
         "valor": 400.00,
         "vencimento": date(2026, 4, 5),
-        "endereco": "SBS QD 02 BL E",
+        "endereco": "SCS QD 2 ED BRADESCO 1 SS BRASILIA DF",
         "bairro": "ASA SUL",
         "cep": "70070120",
         "cidade": "BRASILIA",
