@@ -7,7 +7,6 @@ def gerar_arquivo_rem():
     linhas = []
     linhas.append(gerar_cabecalho())
 
-    # Boleto de teste
     boleto = {
         "nosso_numero": 44,
         "nome": "Renata Nepomuceno",
