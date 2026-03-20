@@ -14,7 +14,7 @@ def gerar_arquivo_rem():
         "vencimento": date(2026, 4, 5),
         "endereco": "SCS QD 2 ED BRADESCO 1 SS BRASILIA DF",
         "bairro": "ASA SUL",
-        "cep": "70070120",
+        "cep": "70329900",
         "cidade": "BRASILIA",
         "uf": "DF",
         "cnpj": "08505544000117"
