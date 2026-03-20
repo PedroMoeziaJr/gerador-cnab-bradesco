@@ -1,3 +1,5 @@
+from datetime import datetime
+
 def gerar_cabecalho():
     registro = "0"
     tipo_operacao = "1"
@@ -10,11 +12,10 @@ def gerar_cabecalho():
     conta_dv = "4"
     convenio = "7867330"
 
-    nome_empresa = "Prime Park Estacionamentos".upper().ljust(30)
+    nome_empresa = "PRIME PARK ESTACIONAMENTOS LTDA".ljust(30)
     codigo_banco = "237"
     nome_banco = "BRADESCO".ljust(15)
 
-    from datetime import datetime
     data_hoje = datetime.now().strftime("%d%m%y")
 
     complemento = " " * 294
