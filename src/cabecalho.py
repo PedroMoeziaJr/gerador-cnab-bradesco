@@ -40,4 +40,3 @@ def gerar_cabecalho():
     )
 
     return linha[:400]
-    return linha[:400]
