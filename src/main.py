@@ -16,7 +16,8 @@ def gerar_arquivo_rem():
         "bairro": "ASA SUL",
         "cep": "70070120",
         "cidade": "BRASILIA",
-        "uf": "DF"
+        "uf": "DF",
+        "cnpj": "08505544000117"
     }
 
     linhas.append(gerar_detalhe(boleto, 2))
